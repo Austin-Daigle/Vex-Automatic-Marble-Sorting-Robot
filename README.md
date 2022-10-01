@@ -1,2 +1,2 @@
 # Vex-Automatic-Marble-Sorting-Robot
-This repository documents the implementation of the VEX EDR platform for a robot that sorts different colored marbles.
+I originally developed this automatic sorting robot in compliance with the PLTW 3.3 Materials Sorter guidelines. I built this marble sorting machine from the VEX EDR platform guided by the VEX EDR Cortex Microcontroller computer.
