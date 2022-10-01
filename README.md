@@ -8,7 +8,8 @@ Marbles are released on top of the utmost track to roll down to a secondary trac
 
 During option, the marble gate will remain closed until a marble of one of the recognized colors rolls down the track and is stopped by the gate; the infrared sensor reads the color within the thresholds of the marble's color, and the sorting tray shift into correct color position and the gate opens releasing the marble into the correct, prealigned receptacle. The gate closes, and the process repeats when the sensor autodetects another marble. The microcontroller that runs the sorting robot will run into perpetuity until power is cycled off; there is no programmatic/logical limit to its operation. 
 
-## Demonstration Video(s):
+## Demonstration:
+[Marble Sorting Machine Demonstration](https://youtu.be/pG1oyW3Acg8)
 
 ## Photo Album
   * Project Image Directory
