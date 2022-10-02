@@ -17,4 +17,4 @@ During option, the marble gate will remain closed until a marble of one of the r
 
 
 ## Source Code (Uncompiled RobotC)
-[Marble Sorting Progam Verson 2.0](https://github.com/Austin-Daigle/Vex-Automatic-Marble-Sorting-Robot/blob/main/Marble%20Sorter%20Program%20Version%202.0.c)
+[Marble Sorter Program Version 2.0.c](https://github.com/Austin-Daigle/Vex-Automatic-Marble-Sorting-Robot/blob/main/Marble%20Sorter%20Program%20Version%202.0.c)
