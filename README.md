@@ -16,5 +16,9 @@ During option, the marble gate will remain closed until a marble of one of the r
   * [Google Photo Album](https://photos.app.goo.gl/zmqFyDaRjab8gpZy7)
 
 
-## Source Code (Uncompiled RobotC)
+## Final Script Source Code (Uncompiled RobotC)
 [Marble Sorter Program Version 2.0.c](https://github.com/Austin-Daigle/Vex-Automatic-Marble-Sorting-Robot/blob/main/Marble%20Sorter%20Program%20Version%202.0.c)
+
+## Development Code
+This script was written to assist in developing the final automation program. This program just illuminates a LED bulb for the detected color from the infrared sensor.  
+[Marble Color Detection Script.c](https://github.com/Austin-Daigle/Vex-Automatic-Marble-Sorting-Robot/blob/main/Marble%20Color%20Detection%20script%20Concept.c)
