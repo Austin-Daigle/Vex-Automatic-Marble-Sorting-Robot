@@ -14,7 +14,7 @@ During option, the marble gate will remain closed until a marble of one of the r
 ## Photo Album
   * [Project Image Directory](https://github.com/Austin-Daigle/Vex-Automatic-Marble-Sorting-Robot/tree/main/ProjectPhotos)
   * [Google Photo Album](https://photos.app.goo.gl/zmqFyDaRjab8gpZy7)
-
+Google Album link(s) have been included along side the project photos directory incase there are issues regarding browser image size/compatibility.
 
 ## Final Script Source Code (Uncompiled RobotC)
 [Marble Sorter Program Version 2.0.c](https://github.com/Austin-Daigle/Vex-Automatic-Marble-Sorting-Robot/blob/main/Marble%20Sorter%20Program%20Version%202.0.c)
